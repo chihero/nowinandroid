@@ -1,0 +1,1 @@
+https://github.com/microsoft/vscode-github-triage-actions/blob/stable/.vscode/snippets.code-snippets
